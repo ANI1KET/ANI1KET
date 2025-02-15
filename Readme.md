@@ -13,11 +13,11 @@
 
 <p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=ANI1KET&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
 
-- 💪🏼 Working on [ROOM RENTAL](https://github.com/ANI1KET/ROOM_RENTAL_BACKEND)
+- 💪🏼 Working on [Service-Based Marketplace Platform(SBMP)](https://github.com/ANI1KET/SERVICES_BACKEND)
 
-- 🌱 I’m currently learning **Reactjs & Nextjs**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Reactjs , Next js**
+- 💬 Ask me about **JavaScript, TypeScript, C++, Reactjs, Nextjs, Nodejs, Sql, MySQL, MongoDB, GraphQL, WebSocket, WebRTC, Redux, React Query**
 
 - 😂 Func Fact **Bats are the only mammal that can actually fly.**
 
