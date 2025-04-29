@@ -15,7 +15,7 @@
 
 - 💪🏼 Working on [Service-Based Marketplace Platform(SBMP)](https://github.com/ANI1KET/SERVICES_BACKEND)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **JavaScript, TypeScript, C++, Reactjs, Nextjs, Nodejs, Sql, MySQL, MongoDB, GraphQL, WebSocket, WebRTC, Redux, React Query**
 
